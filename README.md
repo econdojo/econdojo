@@ -10,4 +10,4 @@ Please send an [email](mailto:tanf@slu.edu) to me if you have any difficulty wit
 
 ## Recent Papers
 
-* Appetite for Treasuries, Debt Cycles, and Fiscal Inflation [[PDF](https://github.com/econdojo/papers/blob/main/pdf/BinUtil.pdf)], *manuscript*, 2022
+* Appetite for Treasuries, Debt Cycles, and Fiscal Inflation [[PDF](https://github.com/econdojo/papers/blob/main/pdf/BinUtil.pdf)], manuscript, 2022
