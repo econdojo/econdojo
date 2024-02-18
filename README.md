@@ -10,4 +10,4 @@ Please send an email to me if you have any difficulty with links or downloads. F
 
 ## Recent Papers
 
-* TBA
+* Appetite for Treasuries, Debt Cycles, and Fiscal Inflation
