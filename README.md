@@ -4,6 +4,10 @@ Currently, I teach macroeconomics and econometrics at [Saint Louis University](h
 
 Please send an email to me if you have any difficulty with links or downloads. Feel free to [sponsor](/sponsor.jpg) the open-source content of this homepage.
 
-## Projects
+## News
 
-* [Lecture 0: Understanding the Market](/assets/e3120/E3120Slides0.pdf)
+* [1/30/24] [43rd Electron launch (with recovery)](https://www.youtube.com/watch?v=NDyxRPGWhRo)
+
+## Recent Papers
+
+* [43rd Electron launch (with recovery)](https://www.youtube.com/watch?v=NDyxRPGWhRo)
