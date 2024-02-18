@@ -6,8 +6,8 @@ Please send an email to me if you have any difficulty with links or downloads. F
 
 ## News
 
-* [1/30/24] [43rd Electron launch (with recovery)](https://www.youtube.com/watch?v=NDyxRPGWhRo)
+* [43rd Electron launch with recovery](https://www.youtube.com/watch?v=NDyxRPGWhRo) [1/30/24]
 
 ## Recent Papers
 
-* [43rd Electron launch (with recovery)](https://www.youtube.com/watch?v=NDyxRPGWhRo)
+* TBA
