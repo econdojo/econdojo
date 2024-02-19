@@ -7,13 +7,11 @@ Please send an [email](mailto:tanf@slu.edu) to me if you have any difficulty wit
 ## News
 
 * [Rocket Lab back-to-back launch](https://twitter.com/RocketLab/status/1759415414738853981) [2/18/24]
+* Appetite for Treasuries, Debt Cycles, and Fiscal Inflation [[PDF](https://github.com/econdojo/papers/blob/main/pdf/BinUtil.pdf)], manuscript, 2022
 
 ## Links
 
 * [Curriculum vitae](https://github.com/econdojo/econdojo/blob/main/Vitae.pdf)
 * [Research papers](https://github.com/econdojo/papers)
+* [ECON 3120](https://github.com/econdojo/inter-macro)
 * [Saint Louis University](https://twitter.com/SLU_Official)
-
-## Recent Papers
-
-* Appetite for Treasuries, Debt Cycles, and Fiscal Inflation [[PDF](https://github.com/econdojo/papers/blob/main/pdf/BinUtil.pdf)], manuscript, 2022
