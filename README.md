@@ -6,7 +6,7 @@ Please send an [email](mailto:tanf@slu.edu) to me if you have any difficulty wit
 
 ## News
 
-* [43rd Electron launch with recovery](https://www.youtube.com/watch?v=NDyxRPGWhRo) [1/30/24]
+* [Rocket Lab back-to-back launch](https://twitter.com/RocketLab/status/1759415414738853981) [2/18/24]
 
 ## Recent Papers
 
