@@ -13,5 +13,5 @@ Please send an [email](mailto:tanf@slu.edu) to me if you have any difficulty wit
 
 * [Curriculum vitae](https://github.com/econdojo/econdojo/blob/main/Vitae.pdf)
 * [Research papers](https://github.com/econdojo/papers)
-* [ECON 3120](https://github.com/econdojo/inter-macro)
+* [ECON 3120](https://github.com/econdojo/inter-macro), [ECON 4310](https://github.com/econdojo/open-econ), [ECON 6100](https://github.com/econdojo/py-bayes)
 * [Saint Louis University](https://twitter.com/SLU_Official)
