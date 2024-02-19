@@ -2,7 +2,7 @@ Hello, world. My research agenda is organized around three areas: `macroeconomic
 
 Currently, I teach macroeconomics and econometrics at [Saint Louis University](https://twitter.com/SLU_Official). Meanwhile, I work on competitive programming projects of data science. I am also a thematic investor for space economy and have rich experience in derivative trading.
 
-Please send an [email](mailto:tanf@slu.edu) to me if you have any difficulty with links or downloads. Feel free to [sponsor](/sponsor.jpg) the open-source content of this homepage. <a href="https://example.com" target="_blank">Link Text</a>
+Please send an [email](mailto:tanf@slu.edu) to me if you have any difficulty with links or downloads. Feel free to [sponsor](/sponsor.jpg) the open-source content of this homepage.
 
 ## News
 
