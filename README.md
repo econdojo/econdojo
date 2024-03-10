@@ -4,8 +4,6 @@ Currently, I teach macroeconomics and econometrics at Saint Louis University. Me
 
 Please send an [email](mailto:tanf@slu.edu) to me if you have any difficulty with links or downloads. Feel free to [sponsor](/sponsor.jpg) the open-source content of this homepage.
 
-&copy; Copyright 2024 Fei Tan. Made on Earth by humans.
-
 ## News
 
 * [Fall 2024 course on neural networks](https://github.com/econdojo/intro-nn) [3/10/24]
@@ -20,3 +18,5 @@ Please send an [email](mailto:tanf@slu.edu) to me if you have any difficulty wit
 * [ECON 3120](https://github.com/econdojo/inter-macro), [ECON 4200](https://github.com/econdojo/money-econ), [ECON 4310](https://github.com/econdojo/open-econ), [ECON 6100](https://github.com/econdojo/intro-bayes), [ECON 6930](https://github.com/econdojo/intro-nn)
 * [Saint Louis University](https://twitter.com/SLU_Official)
 * [Rocket Lab](https://www.rocketlabusa.com)
+
+**&copy; Copyright 2024 Fei Tan. Made on Earth by humans.**
