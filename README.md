@@ -6,14 +6,14 @@ Please send an [email](mailto:tanf@slu.edu) to me if you have any difficulty wit
 
 ## News
 
-* [Fall 2024 course on neural networks](https://github.com/econdojo/intro-nn)
+* [Fall 2024 course on neural networks](https://github.com/econdojo/intro-nn) [3/10/24]
 * [Rocket Lab back-to-back launch](https://twitter.com/RocketLab/status/1759415414738853981) [2/18/24]
 * Appetite for Treasuries, Debt Cycles, and Fiscal Inflation [[PDF](https://github.com/econdojo/papers/blob/main/pdf/BinUtil.pdf)], manuscript, 2022
 
 ## Links
 
 * [Curriculum vitae](https://github.com/econdojo/econdojo/blob/main/Vitae.pdf)
-* [Research papers](https://github.com/econdojo/papers)
+* [Research papers](https://github.com/econdojo/papers), [Google Scholar](https://scholar.google.com/citations?hl=en&user=F49yJ3UAAAAJ)
 * [Blog](https://github.com/econdojo/blog)
 * [ECON 3120](https://github.com/econdojo/inter-macro), [ECON 4200](https://github.com/econdojo/money-econ), [ECON 4310](https://github.com/econdojo/open-econ), [ECON 6100](https://github.com/econdojo/intro-bayes), [ECON 6930](https://github.com/econdojo/intro-nn)
 * [Saint Louis University](https://twitter.com/SLU_Official)
