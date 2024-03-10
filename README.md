@@ -6,6 +6,7 @@ Please send an [email](mailto:tanf@slu.edu) to me if you have any difficulty wit
 
 ## News
 
+* Fall 2024 course: [ECON 6930](https://github.com/econdojo/intro-nn)
 * [Rocket Lab back-to-back launch](https://twitter.com/RocketLab/status/1759415414738853981) [2/18/24]
 * Appetite for Treasuries, Debt Cycles, and Fiscal Inflation [[PDF](https://github.com/econdojo/papers/blob/main/pdf/BinUtil.pdf)], manuscript, 2022
 
