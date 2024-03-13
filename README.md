@@ -6,8 +6,8 @@ Please send an [email](mailto:tanf@slu.edu) to me if you have any difficulty wit
 
 ## News
 
+* [Rocket Lab 45th Electron mission](https://www.youtube.com/watch?v=GF9cWWkSlsQ) [3/12/24]
 * [Fall 2024 course on neural networks](https://github.com/econdojo/intro-nn) [3/10/24]
-* [Rocket Lab back-to-back launch](https://twitter.com/RocketLab/status/1759415414738853981) [2/18/24]
 * Appetite for Treasuries, Debt Cycles, and Fiscal Inflation [[PDF](https://github.com/econdojo/papers/blob/main/pdf/BinUtil.pdf)], manuscript, 2022
 
 ## Links
