@@ -15,7 +15,7 @@ Please send an [email](mailto:tanf@slu.edu) to me if you have any difficulty wit
 * [Curriculum Vitae](https://github.com/econdojo/econdojo/blob/main/Vitae.pdf)
 * [Research Papers](https://github.com/econdojo/papers), [Google Scholar](https://scholar.google.com/citations?hl=en&user=F49yJ3UAAAAJ)
 * [Blog](https://github.com/econdojo/blog)
-* [ECON 3120](https://github.com/econdojo/inter-macro), [ECON 4200](https://github.com/econdojo/money-econ), [ECON 4310](https://github.com/econdojo/open-econ), [ECON 6100](https://github.com/econdojo/intro-bayes), [ECON 6930](https://github.com/econdojo/intro-nn)
+* [InterMicro](https://github.com/econdojo/inter-micro), [InterMacro](https://github.com/econdojo/inter-macro), [MoneyEcon](https://github.com/econdojo/money-econ), [OpenEcon](https://github.com/econdojo/open-econ), [BayesStat](https://github.com/econdojo/intro-bayes), [NeuralNet](https://github.com/econdojo/intro-nn)
 * [Saint Louis University](https://twitter.com/SLU_Official)
 * [Rocket Lab](https://www.rocketlabusa.com)
 
