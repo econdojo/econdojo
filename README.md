@@ -6,17 +6,15 @@ Please send an [email](mailto:tanf@slu.edu) to me if you have any difficulty wit
 
 ## News
 
-* [Rocket Lab 47th Electron mission](https://twitter.com/RocketLab/status/1782969453329981463) [4/23/24]
+* [Rocket Lab 50th Electron mission](https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-50th-electron-mission-deploys-satellites-for-kineis/) [6/20/24]
 * [Fall 2024 course on neural networks](https://github.com/econdojo/intro-nn) [3/10/24]
 * Appetite for Treasuries, Debt Cycles, and Fiscal Inflation [[PDF](https://github.com/econdojo/papers/blob/main/pdf/BinUtil.pdf)], manuscript, 2022
 
 ## Links
 
-* [Curriculum Vitae](https://github.com/econdojo/econdojo/blob/main/Vitae.pdf)
-* [Research Papers](https://github.com/econdojo/papers), [Google Scholar](https://scholar.google.com/citations?hl=en&user=F49yJ3UAAAAJ)
-* [Blog](https://github.com/econdojo/blog)
+* [Curriculum Vitae](https://github.com/econdojo/econdojo/blob/main/Vitae.pdf), [Google Scholar](https://scholar.google.com/citations?hl=en&user=F49yJ3UAAAAJ)
+* [Research Papers](https://github.com/econdojo/papers), [Blog](https://github.com/econdojo/blog)
 * [InterMicro](https://github.com/econdojo/inter-micro), [InterMacro](https://github.com/econdojo/inter-macro), [MoneyEcon](https://github.com/econdojo/money-econ), [OpenEcon](https://github.com/econdojo/open-econ), [BayesStat](https://github.com/econdojo/intro-bayes), [NeuralNet](https://github.com/econdojo/intro-nn)
-* [Saint Louis University](https://twitter.com/SLU_Official)
-* [Rocket Lab](https://www.rocketlabusa.com)
+* [Saint Louis University](https://twitter.com/SLU_Official), [Rocket Lab](https://www.rocketlabusa.com)
 
 **&copy; Copyright 2024 Fei Tan. Made on Earth by humans.**
