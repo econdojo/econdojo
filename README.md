@@ -6,8 +6,8 @@ Please send an [email](mailto:tanf@slu.edu) to me if you have any difficulty wit
 
 ## News
 
+* 🔥🔥🔥 [Fall 2024 course on neural networks](https://github.com/econdojo/intro-nn) 🚀🚀🚀
 * [Rocket Lab 50th Electron mission](https://www.rocketlabusa.com/updates/rocket-lab-successfully-launches-50th-electron-mission-deploys-satellites-for-kineis/) [6/20/24]
-* [Fall 2024 course on neural networks](https://github.com/econdojo/intro-nn) [3/10/24]
 * Appetite for Treasuries, Debt Cycles, and Fiscal Inflation [[PDF](https://github.com/econdojo/papers/blob/main/pdf/BinUtil.pdf)], manuscript, 2022
 
 ## Links
