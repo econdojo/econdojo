@@ -6,6 +6,7 @@ Please send an [email](mailto:tanf@slu.edu) to me if you have any difficulty wit
 
 ## News
 
+* 🔥 [Spring 2025 course on monetary economics](https://github.com/econdojo/money-econ) 🔥
 * 🔥 [Fall 2024 course on neural networks](https://github.com/econdojo/intro-nn) 🔥
 * [Rocket Lab Q2 earnings call](https://s28.q4cdn.com/737637457/files/doc_financials/2024/q2/FINAL-Rocket-Lab-Q2-2024-Earnings-Presentation.pdf) [8/8/24]
 * Appetite for Treasuries, Debt Cycles, and Fiscal Inflation [[PDF](https://github.com/econdojo/papers/blob/main/pdf/BinUtil.pdf)], manuscript, 2022
