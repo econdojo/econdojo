@@ -1,4 +1,13 @@
-Hello, world. My research agenda is organized around three areas, grounded in first principles: `macroeconomics`, `Bayesian statistics`, and `game theory`. One line of my current research develops time and frequency-domain approaches to dynamic equilibrium models of expectations formation. Another line develops Markov chain Monte Carlo methods for estimating large-scale structural models. These tools are applied to study monetary and fiscal policy, asset prices, and social networks. Recently, I like to train Bayesian neural nets regularized by economic theory. My previous research studies the evolution of cooperative and altruistic human behavior.
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, world!\n");
+    return 0;
+}
+```
+
+Grounded in first principles, my research agenda is organized around three areas: `macroeconomics`, `Bayesian statistics`, and `game theory`. One line of my current research develops time and frequency-domain approaches to dynamic equilibrium models of expectations formation. Another line develops Markov chain Monte Carlo methods for estimating large-scale structural models. These tools are applied to study monetary and fiscal policy, asset prices, and social networks. Recently, I like to train Bayesian neural nets regularized by economic theory. My previous research studies the evolution of cooperative and altruistic human behavior.
 
 Currently, I teach economics, statistics, and computer science to both high school and college students. Meanwhile, I am a thematic investor for space economy and have rich experience in derivative trading.
 
