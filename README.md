@@ -22,7 +22,7 @@ Check out my channels on [YouTube](https://www.youtube.com/@econdojo), [Discord]
 ## Links
 
 * [Curriculum Vitae](https://github.com/econdojo/econdojo/blob/main/Vitae.pdf), [Research Papers](https://github.com/econdojo/papers), [Blog](https://github.com/econdojo/blog), [Google Scholar](https://scholar.google.com/citations?hl=en&user=F49yJ3UAAAAJ)
-* [MicroEcon](https://github.com/econdojo/micro-econ), [MacroEcon](https://github.com/econdojo/macro-econ), [MoneyEcon](https://github.com/econdojo/money-econ), [OpenEcon](https://github.com/econdojo/open-econ), [BayesStat](https://github.com/econdojo/bayes-stat), [NeuralNet](https://github.com/econdojo/neural-net), [SocialNet](https://github.com/econdojo/social-net)
+* [Microeconomics](https://github.com/econdojo/micro-econ), [Macroeconomics](https://github.com/econdojo/macro-econ), [Monetary Economics](https://github.com/econdojo/money-econ), [International Macroeconomics](https://github.com/econdojo/intl-macro), [Bayesian Statistics](https://github.com/econdojo/bayes-stat), [Neural Network](https://github.com/econdojo/neural-net), [Social Network](https://github.com/econdojo/social-net)
 * [Saint Louis University](https://twitter.com/SLU_Official), [Rocket Lab](https://www.rocketlabusa.com)
 
 **&copy; Copyright 2024 Fei Tan. Made on Earth by humans.**
