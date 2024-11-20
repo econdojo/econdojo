@@ -10,7 +10,7 @@ Grounded in first principles, my research agenda is organized around three areas
 
 As an educator, I teach economics, statistics, and computer science to both high school and college students. Meanwhile, I am a thematic investor for space economy and have rich experience in derivative trading.
 
-Check out my channels on [YouTube](https://www.youtube.com/@econdojo), [Discord](https://discord.gg/SsrNPEeP2P), and [X](https://x.com/econdojo) for more, and [email](mailto:tanf@slu.edu) me if you have any questions. Feel free to [sponsor](/sponsor.jpg) (preferably via Dogecoin) the open-source content of this homepage.
+Check out my channels on [YouTube](https://www.youtube.com/@econdojo), [Discord](https://discord.gg/SsrNPEeP2P), and [X](https://x.com/econdojo) for more, and [email](mailto:econdojo@gmail.com) me if you have any questions. Feel free to [sponsor](/sponsor.jpg) (preferably via Dogecoin) the open-source content of this homepage.
 
 ## News
 
