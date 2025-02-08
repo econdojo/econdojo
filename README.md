@@ -14,6 +14,7 @@ Check out my channels on [YouTube](https://www.youtube.com/@econdojo), [Discord]
 
 ## News
 
+* Forecasting the Forecasts of Others on Social Networks [[PDF](https://github.com/econdojo/papers/blob/main/pdf/ffo_net.pdf)], with Leifei Lyu, manuscript, 2025
 * 🔥 [Spring 2025 monetary economics](https://github.com/econdojo/money-econ) 🔥
 * 🔥 [Fall 2024 neural networks](https://github.com/econdojo/intro-nn) 🔥
 * [Rocket Lab Q3 earnings call](https://s28.q4cdn.com/737637457/files/doc_financials/2024/q3/FINAL_Q3-2024-Earnings-Presentation.pdf) [11/12/24]
