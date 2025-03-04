@@ -6,9 +6,9 @@ main() {
 }
 ```
 
-Grounded in first principles, my research agenda is organized around three areas: `macroeconomics`, `Bayesian statistics`, and `game theory`. One line of my current research develops time and frequency-domain approaches to dynamic equilibrium models of expectations formation. Another line develops Markov chain Monte Carlo methods for estimating large-scale structural models. These tools are applied to study monetary and fiscal policy, asset prices, and social networks. Recently, I like to train Bayesian neural nets regularized by economic theory. My previous research studies the evolution of cooperative and altruistic human behavior.
+Grounded in first principles, my research agenda is organized around three areas: `macroeconomics`, `Bayesian statistics`, and `game theory`. One line of my research develops time and frequency-domain approaches to dynamic equilibrium models of expectations formation. Another line develops Markov chain Monte Carlo methods for estimating large-scale structural models. These tools are applied to study monetary and fiscal policy, asset prices, and social networks. Recently, I like to train neural nets regularized by economic theory. My previous research studies the evolution of cooperative and altruistic human behavior.
 
-As an educator, I teach economics, statistics, and computer science to both high school and college students. Meanwhile, I am a thematic investor for space economy and have rich experience in derivative trading.
+As an educator, I teach economics, statistics, and computer science to both high school and college students. I also co-founded [Business School 101](https://www.youtube.com/@BusinessSchool101), a rapidly growing YouTube channel dedicated to providing practical business education to a broad audience. Beyond the classroom, I am a thematic investor for space economy and have rich experience in derivative trading.
 
 Check out my channels on [YouTube](https://www.youtube.com/@econdojo), [Discord](https://discord.gg/SsrNPEeP2P), and [X](https://x.com/econdojo) for more, and [email](mailto:econdojo@gmail.com) me if you have any questions. Feel free to [sponsor](/sponsor.jpg) (preferably via Dogecoin) the open-source content of this homepage.
 
