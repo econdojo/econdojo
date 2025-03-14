@@ -6,7 +6,7 @@ main() {
 }
 ```
 
-Grounded in first principles, my research agenda is organized around three areas: `macroeconomics`, `Bayesian statistics`, and `game theory`. One line of my research develops time and frequency-domain approaches to dynamic equilibrium models of expectations formation. Another line develops Markov chain Monte Carlo methods for estimating large-scale structural models. These tools are applied to study monetary and fiscal policy, asset prices, and social networks. Recently, I like to train neural nets regularized by economic theory. My previous research studies the evolution of cooperative and altruistic human behavior.
+Grounded in first principles, my research agenda is organized around three areas: `macroeconomics`, `econometrics`, and `game theory`. One line of my research develops time and frequency-domain approaches to dynamic equilibrium models of expectations formation. Another line develops Markov chain Monte Carlo methods for estimating large-scale structural models. These tools are applied to study monetary and fiscal policy, asset prices, and social networks. Recently, I like to train neural nets regularized by economic theory. My previous research studies the evolution of cooperative and altruistic human behavior.
 
 As an educator, I teach economics, statistics, and computer science to both high school and college students. I also co-founded [Business School 101](https://www.youtube.com/@BusinessSchool101), a rapidly growing YouTube channel dedicated to providing practical business education to a broad audience. Beyond the classroom, I am a thematic investor for space economy and have rich experience in derivative trading.
 
@@ -14,6 +14,7 @@ Check out my channels on [YouTube](https://www.youtube.com/@econdojo), [Discord]
 
 ## News
 
+* Policy Rule Regressions with Survey Data [[PDF](https://github.com/econdojo/papers/blob/main/pdf/PolicyRegress.pdf)], with Leifei Lyu and Zheliang Zhu, manuscript, 2025
 * Forecasting the Forecasts of Others on Social Networks [[PDF](https://github.com/econdojo/papers/blob/main/pdf/ffo_net.pdf)], with Leifei Lyu, manuscript, 2025
 * Appetite for Treasuries, Debt Cycles, and Fiscal Inflation [[PDF](https://github.com/econdojo/papers/blob/main/pdf/BinUtil.pdf)], revision requested at *Macroeconomic Dynamics*, 2024
 * 🔥 [Spring 2025 monetary economics](https://github.com/econdojo/money-econ) 🔥
