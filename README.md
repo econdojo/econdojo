@@ -19,7 +19,7 @@ Check out my channels on [YouTube](https://www.youtube.com/@econdojo), [Discord]
 * Appetite for Treasuries, Debt Cycles, and Fiscal Inflation [[PDF](https://github.com/econdojo/papers/blob/main/pdf/BinUtil.pdf)], revision requested at *Macroeconomic Dynamics*, 2024
 * 🔥 [Spring 2025 monetary economics](https://github.com/econdojo/money-econ) 🔥
 * 🔥 [Fall 2024 neural networks](https://github.com/econdojo/intro-nn) 🔥
-* [Rocket Lab Q3 earnings call](https://s28.q4cdn.com/737637457/files/doc_financials/2024/q3/FINAL_Q3-2024-Earnings-Presentation.pdf) [11/12/24]
+* [Rocket Lab Q4 earnings call](https://s28.q4cdn.com/737637457/files/doc_financials/2024/q4/Q4-2024-Earnings-Presentation.pdf) [2/28/25]
 
 ## Links
 
