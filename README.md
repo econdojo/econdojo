@@ -24,7 +24,7 @@ Check out my channels on [YouTube](https://www.youtube.com/@econdojo), [Discord]
 ## Links
 
 * Profile: [Curriculum Vitae](https://github.com/econdojo/econdojo/blob/main/Vitae.pdf), [Research Papers](https://github.com/econdojo/papers), [Blog](https://github.com/econdojo/blog), [Google Scholar](https://scholar.google.com/citations?hl=en&user=F49yJ3UAAAAJ)
-* Courses: [Microeconomics](https://github.com/econdojo/micro-econ), [Macroeconomics](https://github.com/econdojo/macro-econ), [Monetary Economics](https://github.com/econdojo/money-econ), [International Macroeconomics](https://github.com/econdojo/intl-macro), [Bayesian Statistics](https://github.com/econdojo/bayes-stat), [Neural Network](https://github.com/econdojo/neural-net), [Social Network](https://github.com/econdojo/social-net)
+* Courses: [Microeconomics](https://github.com/econdojo/micro), [Macroeconomics](https://github.com/econdojo/macro), [Monetary Economics](https://github.com/econdojo/money), [International Macroeconomics](https://github.com/econdojo/open), [Bayesian Statistics](https://github.com/econdojo/stat), [Neural Network](https://github.com/econdojo/ai), [Game Theory](https://github.com/econdojo/game)
 * Affiliations: [Saint Louis University](https://twitter.com/SLU_Official), [Business School 101](https://www.youtube.com/@BusinessSchool101), [Insightful Minds in International Macro](https://sites.google.com/view/imimseminars/home), [Center for Economic Behavior and Decision-making](https://cebd.zufe.edu.cn), [Rocket Lab](https://www.rocketlabusa.com)
 
 **&copy; Copyright 2024 Fei Tan. Made on Earth by humans.**
