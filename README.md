@@ -17,8 +17,8 @@ Check out my channels on [YouTube](https://www.youtube.com/@econdojo), [Discord]
 * Policy Rule Regressions with Survey Data [[PDF](https://github.com/econdojo/papers/blob/main/pdf/PolicyRegress.pdf)], with Leifei Lyu and Zheliang Zhu, manuscript, 2025
 * Forecasting the Forecasts of Others on Social Networks [[PDF](https://github.com/econdojo/papers/blob/main/pdf/ffo_net.pdf)], with Leifei Lyu, manuscript, 2025
 * Appetite for Treasuries, Debt Cycles, and Fiscal Inflation [[PDF](https://github.com/econdojo/papers/blob/main/pdf/BinUtil.pdf)], revision requested at *Macroeconomic Dynamics*, 2024
-* 🔥 [Spring 2025 monetary economics](https://github.com/econdojo/money-econ) 🔥
-* 🔥 [Fall 2024 neural networks](https://github.com/econdojo/intro-nn) 🔥
+* 🔥 [Fall 2025 game theory](https://github.com/econdojo/game) 🔥
+* 🔥 [Fall 2025 neural networks](https://github.com/econdojo/ai) 🔥
 * [Rocket Lab Q4 earnings call](https://s28.q4cdn.com/737637457/files/doc_financials/2024/q4/Q4-2024-Earnings-Presentation.pdf) [2/28/25]
 
 ## Links
