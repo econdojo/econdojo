@@ -18,7 +18,7 @@ Check out my channels on [YouTube](https://www.youtube.com/@econdojo), [Discord]
 * Forecasting the Forecasts of Others on Social Networks [[PDF](https://github.com/econdojo/papers/blob/main/pdf/ffo_net.pdf)], with Leifei Lyu, manuscript, 2025
 * Appetite for Treasuries, Debt Cycles, and Fiscal Inflation [[PDF](https://github.com/econdojo/papers/blob/main/pdf/BinUtil.pdf)], revision requested at *Macroeconomic Dynamics*, 2024
 * 🔥 [Fall 2025 game theory](https://github.com/econdojo/game) 🔥
-* 🔥 [Fall 2025 neural networks](https://github.com/econdojo/ai) 🔥
+* 🔥 [Fall 2025 neural network](https://github.com/econdojo/ai) 🔥
 * [Rocket Lab Q1 earnings call](https://investors.rocketlabcorp.com/static-files/bbf2962a-dc50-4fe1-90e9-75caa0b8e68d) [5/8/25]
 
 ## Links
