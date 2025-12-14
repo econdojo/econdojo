@@ -6,9 +6,9 @@ main() {
 }
 ```
 
-Grounded in first principles, my research develops algorithmic solutions for complex economic systems at the intersection of `artificial intelligence`, `game theory`, and `statistical inference`. One line of my research develops time and frequency-domain approaches to dynamic equilibrium models with strategic agents. Another line develops Bayesian methods for estimating large-scale structural models. These tools are applied to study economic policy, asset prices, and social networks. Recently, I like to train neural nets regularized by economic theory. My previous research studies the evolution of cooperative and altruistic human behavior.
+Grounded in first principles, my research develops algorithmic solutions for complex social systems at the intersection of `artificial intelligence`, `economics`, and `statistics`. One line of my research develops time-domain and frequency-domain approaches to dynamic equilibrium models with strategic agents. Another line develops Bayesian methods for estimating large-scale structural models. These tools are applied to study economic policy, asset prices, and social networks. Recently, I like to train neural nets regularized by economic theory. My previous research studies the evolution of cooperative and altruistic human behavior.
 
-As an educator, I teach economics, statistics, and computer science to both high school and college students. I also co-founded [Business School 101](https://www.youtube.com/@BusinessSchool101), a rapidly growing YouTube channel dedicated to providing practical business education to a broad audience. Beyond the classroom, I am a thematic investor for space economy and have rich experience in derivative trading.
+As an educator, I teach economics, statistics, and computer science with comprehensive open-source curricula on GitHub. I also co-founded [Business School 101](https://www.youtube.com/@BusinessSchool101), a YouTube channel with over 100k subscribers democratizing business education. Beyond the classroom, I am a thematic investor for space economy and have rich experience in derivative trading.
 
 Check out my channels on [YouTube](https://www.youtube.com/@econdojo), [Discord](https://discord.gg/SsrNPEeP2P), and [X](https://x.com/econdojo) for more, and [email](mailto:econdojo@gmail.com) me if you have any questions. Feel free to [sponsor](/sponsor.jpg) (preferably via Dogecoin) the open-source content of this homepage.
 
@@ -23,7 +23,7 @@ Check out my channels on [YouTube](https://www.youtube.com/@econdojo), [Discord]
 
 ## Links
 
-* Profile: [Curriculum Vitae](https://github.com/econdojo/econdojo/blob/main/Vitae.pdf), [Research Papers](https://github.com/econdojo/papers), [Blog](https://github.com/econdojo/blog), [Google Scholar](https://scholar.google.com/citations?hl=en&user=F49yJ3UAAAAJ)
+* Profile: [Curriculum Vitae](https://github.com/econdojo/econdojo/blob/main/Vitae.pdf), [Research Papers](https://github.com/econdojo/papers), [Google Scholar](https://scholar.google.com/citations?hl=en&user=F49yJ3UAAAAJ)
 * Courses: [Game Theory](https://github.com/econdojo/game), [Neural Network](https://github.com/econdojo/ai), [Bayesian Statistics](https://github.com/econdojo/stat), [Microeconomics](https://github.com/econdojo/micro), [Macroeconomics](https://github.com/econdojo/macro), [Monetary Economics](https://github.com/econdojo/money), [International Macroeconomics](https://github.com/econdojo/open)
 * Affiliations: [Saint Louis University](https://twitter.com/SLU_Official), [Business School 101](https://www.youtube.com/@BusinessSchool101), [Insightful Minds in International Macro](https://sites.google.com/view/imimseminars/home), [Center for Economic Behavior and Decision-making](https://cebd.zufe.edu.cn)
 
